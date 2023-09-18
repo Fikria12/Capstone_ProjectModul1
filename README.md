@@ -1,5 +1,6 @@
 Aplikasi Toko Beras
-Aplikasi Toko Beras adalah program sederhana yang digunakan untuk mengelola data berbagai jenis beras di sebuah toko beras. Program ini memungkinkan pengguna untuk melakukan beberapa tindakan, seperti menampilkan daftar beras yang tersedia, menambahkan data beras baru, mengupdate stok beras, menghapus data beras, dan melakukan pembelian beras.
+Aplikasi Toko Beras adalah program sederhana yang digunakan untuk mengelola data berbagai jenis beras.Program ini memudahkan pengguna untuk melakukan beberapa tindakan, seperti menampilkan daftar beras yang tersedia, 
+menambahkan data beras baru, mengupdate stok beras, menghapus data beras, dan melakukan pembelian beras.
 
 Fitur-fitur Utama
 * 		Menampilkan Data Beras: Pengguna dapat melihat daftar lengkap beras yang tersedia beserta informasi seperti nama, stok, harga, dan lainnya.
